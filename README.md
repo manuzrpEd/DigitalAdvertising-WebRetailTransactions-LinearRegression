@@ -4,8 +4,6 @@ This assessment is designed to help show my coding competency, reasoning/analysi
 
 Given the accompanying sample dataset, I am tasked with performing any analysis that I see fit that will help answer the following question: What activities should be performed (i.e. increased/decreased) in order to increase total Web Transactions without negatively impacting the number of Retail Transactions? 
 
-I may note down what I would have liked to do if given more time. 
-
 The main objective is to be able to turn my insights into realistic business actions. It would be beneficial to make appropriate recommendations if/where possible.
 
 Dataset Questions
@@ -20,4 +18,4 @@ Dataset Questions
   - Homogenise each variable to only one data type instead of having more than one, be it floats, integers or categorical data (in strings).
   - Fill in missing values: for spend variables I filled them with a 0, for categorical variables I added the category of 'Missing' whenever the entries were empty.
   - For the model estimation, I transformed spend and transaction variables into logs, for better interpretation of the results.
-3.	What other information would you have liked to be included in your dataset? Explain what analysis you would have undertaken if you had those fields. 
+3.	What other information would you have liked to be included in your dataset? Explain what analysis you would have undertaken if you had those fields. Note down what you would have liked to do if given more time. 
