@@ -17,12 +17,12 @@ Answer:
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/EmailRT.png" alt="EmailRT"/>
             </p>
         <p float="left">
-    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedWT.png" width="325" alt="BrandedWT"/>
-    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedRT.png" width="325" alt="BrandedRT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedWT.png" width="400" alt="BrandedWT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedRT.png" width="400" alt="BrandedRT"/>
             </p>
             <p float="left">
-    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedWT.png" width="325" alt="UnbrandedWT"/>
-    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedRT.png" width="325" alt="UnbrandedRT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedWT.png" width="400" alt="UnbrandedWT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedRT.png" width="400" alt="UnbrandedRT"/>
                 </p>
 
 
