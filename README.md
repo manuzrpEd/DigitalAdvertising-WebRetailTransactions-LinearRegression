@@ -13,6 +13,10 @@ Answer:
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/AffiliateRT.png" alt="AffiliateRT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/EmailWT.png" alt="EmailWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/EmailRT.png" alt="EmailRT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/BrandedWT.png" alt="BrandedWT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/BrandedRT.png" alt="BrandedRT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/UnbrandedWT.png" alt="UnbrandedWT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/UnbrandedRT.png" alt="UnbrandedRT"/>
 
 
 </li>
