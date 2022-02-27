@@ -11,7 +11,7 @@ The main objective is to be able to turn my insights into realistic business act
 Dataset Questions
 
 1.	Please note down if there was anything interesting or unusual that you noticed about the dataset. 
-  1. A few variables had inconsistent data types. For example, in some numeric variables a few entries had a string type.
+  * A few variables had inconsistent data types. For example, in some numeric variables a few entries had a string type.
   2. Many variables have missing values. This creates a problem as with missing values the statistical significance (robustness) of the results worsens.
   3. The dataset has a rich variety of data types (integers, floats, categorical variables in string and date)
   4. The data is a panel data set. The panel variable is Location ID, and the time variable is Date. This structure of the data allows for having more than one observation per Location    ID (which increases statistical significance) and we can control for unobserved heterogeneity.
