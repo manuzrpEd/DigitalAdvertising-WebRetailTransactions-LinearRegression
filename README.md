@@ -49,7 +49,7 @@ Additional. Dataset Questions:
    * The time period is between the years 2005-2011. This means that some of the advertising channels may have been evolving/developing in later years.
 2.	What data cleaning, if any, did you perform on the dataset?
   - Homogenise each variable to only one data type instead of having more than one, be it floats, integers or categorical data (in strings).
-  - Fill in missing values: for spend variables I filled them with a 0, for categorical variables I added the category of 'Missing' whenever the entries were empty. In practice, for the model estimation the filling of missing values has no effect, and I never incorporated Promo or Code variables as most of the observations were missing.
+  - Fill in missing values: for spend variables I filled them with a 0, for categorical variables I added the category of 'Missing' whenever the entries were empty. For the model estimation, the filling of missing values bears no effect, as I use Panel Data and the Fixed Effect estimator that looks at deviations from the mean. In addition, I never incorporated Promo or Code variables to the model as most of these observations were missing.
   - For the model estimation, I transformed spend and transaction variables into logs, for better interpretation of the results (percentage increases/decreases).
   - I created dummy variables for year and month.
 3.	What other information would you have liked to be included in your dataset? Explain what analysis you would have undertaken if you had those fields. Note down what you would have liked to do if given more time. 
