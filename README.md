@@ -28,7 +28,7 @@ Answer:
 
 </li>
 <li>
-    2. Of those 4 channels, Affiliate Spend is the channel with the largest impact. The response to percent increases in any of these channels is largest in magnitude for Affiliate Spend.
+    2. Of those 4 channels, Affiliate Spend is the channel with the largest impact. The transactions response to percent increases in any of these channels is largest in magnitude for Affiliate Spend.
     <p>
     - A 1% increase in Affiliate Spend is associated with a 0.37% increase in Web Transactions, holding everything else constant.
         <p>
