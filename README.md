@@ -8,17 +8,22 @@ Answer:
 <p>
 <li>
     1. Digital advertising variables, such as Affiliate Spend, Email Spend, Branded Search Spend and Unbranded Search Spend are associated with higher both Web Transactions and Retail Transactions.
-    <p>
+    <p float="left">
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/AffiliateWT.png" alt="AffiliateWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/AffiliateRT.png" alt="AffiliateRT"/>
+        </p>
+        <p float="left">
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/EmailWT.png" alt="EmailWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/EmailRT.png" alt="EmailRT"/>
-        <p>
+            </p>
+        <p float="left">
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedWT.png" alt="BrandedWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedRT.png" alt="BrandedRT"/>
-            <p>
+            </p>
+            <p float="left">
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedWT.png" alt="UnbrandedWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedRT.png" alt="UnbrandedRT"/>
+                </p>
 
 
 </li>
