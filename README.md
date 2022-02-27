@@ -1,4 +1,4 @@
-# TotalWebTransactions
+# Total Web Transactions & Retail Transactions
 
 This assessment is designed to help show my coding competency, reasoning/analysis capabilities, and communication skills. The main objective is to be able to turn my insights into realistic business actions. It would be beneficial to make appropriate recommendations if/where possible.
 
