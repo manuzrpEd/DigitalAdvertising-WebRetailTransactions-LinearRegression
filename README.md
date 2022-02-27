@@ -25,7 +25,7 @@ Additional. Dataset Questions:
 
 1.	Please note down if there was anything interesting or unusual that you noticed about the dataset. 
    * A few variables had inconsistent data types. For example, in some numeric variables a few entries had a string type.
-   * Many variables have missing values. This creates a problem as with missing values the statistical significance (robustness) of the results worsens.
+   * Many variables have missing values. This creates a problem as with a high percentage of missing values the statistical significance (robustness) of the results during the estimation worsens. It also creates the problem of how to treat missing values.
    * The dataset has a rich variety of data types (integers, floats, categorical variables in string and date)
    * The data is a panel data set. The panel variable is Location ID, and the time variable is Date. This structure of the data allows for having more than one observation per Location ID (which increases statistical significance) and we can control for unobserved heterogeneity.
    * The time period is between the years 2005-2011. This means that some of the advertising channels may have been evolving/appearing in later years.
