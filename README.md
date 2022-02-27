@@ -46,7 +46,7 @@ Additional. Dataset Questions:
    * Many variables have missing values. This creates the problem of how to treat missing values or whether to include these variables at all in the estimation.
    * The dataset has a rich variety of data types (integers, floats, categorical variables in string and date)
    * The data is a panel data set. The panel variable is Location ID, and the time variable is Date. This structure of the data allows for having more than one observation per Location ID (which increases statistical significance) and we can control for unobserved heterogeneity.
-   * The time period is between the years 2005-2011. This means that some of the advertising channels may have been evolving/appearing in later years.
+   * The time period is between the years 2005-2011. This means that some of the advertising channels may have been evolving/developing in later years.
 2.	What data cleaning, if any, did you perform on the dataset?
   - Homogenise each variable to only one data type instead of having more than one, be it floats, integers or categorical data (in strings).
   - Fill in missing values: for spend variables I filled them with a 0, for categorical variables I added the category of 'Missing' whenever the entries were empty.
