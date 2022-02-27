@@ -21,7 +21,7 @@ Answer:
 </p>
 
 
-Dataset Questions
+Additional. Dataset Questions:
 
 1.	Please note down if there was anything interesting or unusual that you noticed about the dataset. 
    * A few variables had inconsistent data types. For example, in some numeric variables a few entries had a string type.
