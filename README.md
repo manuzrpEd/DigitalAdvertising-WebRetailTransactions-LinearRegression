@@ -28,6 +28,9 @@ Answer:
 </li>
 <li>
     4. We would not recommend Percentage Discount as a means to increase Web Transactions as it is associated with lower Retail Transactions. At the very least, firms should ponder the trade-off that this action entails.
+    <p>
+        <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/PercentageWT.png" alt="PercentageWT"/>
+        <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/PercentageRT.png" alt="PercentageRT"/>
 </li>
 </p>
 
