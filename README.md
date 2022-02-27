@@ -9,6 +9,7 @@ Answer:
 <li>
     1. Digital advertising variables, such as Affiliate Spend, Email Spend, Branded Search Spend and Unbranded Search Spend are associated with higher both Web Transactions and Retail Transactions.
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/AffiliateWT.png" alt="AffiliateWT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/AffiliateRT.png" alt="AffiliateRT"/>
 
 
 </li>
