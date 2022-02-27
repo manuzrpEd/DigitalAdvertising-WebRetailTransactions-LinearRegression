@@ -1,6 +1,6 @@
 # Total Web Transactions & Retail Transactions
 
-This assessment is designed to help show my coding competency, reasoning/analysis capabilities, and communication skills. The main objective is to be able to turn my insights into realistic business actions. It would be beneficial to make appropriate recommendations if/where possible.
+This assessment is designed to help show my coding competency, reasoning/analysis capabilities, and communication skills. The main objective is to be able to turn my insights into realistic business actions. It would be beneficial to make appropriate recommendations if/where possible. My attempt is [here](https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/Web%26RetailTransactions.ipynb).
 
 Given the accompanying sample dataset, I am tasked with performing any analysis that I see fit that will help answer the following question: What activities should be performed (i.e. increased/decreased) in order to increase total Web Transactions without negatively impacting the number of Retail Transactions? 
 
