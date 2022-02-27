@@ -28,7 +28,7 @@ Answer:
     - A 1% increase in Affiliate Spend is associated with a a 0.19% increase in Retail Transactions, holding everything else constant.
 </li>
 <li>
-    3. Firms would still ponder which channel is relatively more efficient for their specific marketing strategies.
+    3. Firms would still have to ponder which channel is relatively more efficient for their specific marketing strategies.
 </li>
 <li>
     4. We would not recommend Percentage Discount as a means to increase Web Transactions as it is associated with lower Retail Transactions. At the very least, firms should ponder the trade-off that this action entails.
