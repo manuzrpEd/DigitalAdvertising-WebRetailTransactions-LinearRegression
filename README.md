@@ -17,7 +17,7 @@ Answer:
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/EmailRT.png" alt="EmailRT"/>
             </p>
         <p float="left">
-    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedWT.png" width="425" alt="BrandedWT"/>
+    <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedWT.png" width="125" alt="BrandedWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedRT.png" alt="BrandedRT"/>
             </p>
             <p float="left">
