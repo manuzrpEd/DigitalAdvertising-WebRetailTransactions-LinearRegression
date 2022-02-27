@@ -11,10 +11,10 @@ The main objective is to be able to turn my insights into realistic business act
 Dataset Questions
 
 1.	Please note down if there was anything interesting or unusual that you noticed about the dataset. 
-  a) A few variables had inconsistent data types. For example, in some numeric variables a few entries had a string type.
-  b) Many variables have missing values. This creates a problem as with missing values the statistical significance (robustness) of the results worsens.
-  c) The dataset has a rich variety of data types (integers, floats, categorical variables in string and date)
-  d) The data is a panel data set. The panel variable is Location ID, and the time variable is Date. This structure of the data allows for having more than one observation per Location ID (which increases statistical significance) and we can control for unobserved heterogeneity.
-  e) The time period is between the years 2005-2011. This means that some of the advertising channels may have been evolving/appearing in later years.
+  1. A few variables had inconsistent data types. For example, in some numeric variables a few entries had a string type.
+  2. Many variables have missing values. This creates a problem as with missing values the statistical significance (robustness) of the results worsens.
+  3. The dataset has a rich variety of data types (integers, floats, categorical variables in string and date)
+  4. The data is a panel data set. The panel variable is Location ID, and the time variable is Date. This structure of the data allows for having more than one observation per Location ID (which increases statistical significance) and we can control for unobserved heterogeneity.
+  5. The time period is between the years 2005-2011. This means that some of the advertising channels may have been evolving/appearing in later years.
 2.	What data cleaning, if any, did you perform on the dataset?
 3.	What other information would you have liked to be included in your dataset? Explain what analysis you would have undertaken if you had those fields. 
