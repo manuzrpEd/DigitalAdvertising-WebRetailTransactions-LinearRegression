@@ -16,6 +16,7 @@ Answer:
         <p>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedWT.png" alt="BrandedWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/BrandedRT.png" alt="BrandedRT"/>
+            <p>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedWT.png" alt="UnbrandedWT"/>
     <img src="https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/imgs/UnbrandedRT.png" alt="UnbrandedRT"/>
 
