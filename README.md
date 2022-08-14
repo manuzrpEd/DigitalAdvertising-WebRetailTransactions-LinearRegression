@@ -6,9 +6,9 @@ Given the accompanying sample dataset, I am tasked with performing any analysis 
 
 Answer:
 
-I have estimated the following model:
+I have estimated the following models:
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$ WebTransactions = \beta_0 $$
 
 <p>
 <li>
