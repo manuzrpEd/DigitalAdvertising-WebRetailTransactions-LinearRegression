@@ -5,6 +5,11 @@ This assessment is designed to help show my coding, reasoning, and communication
 Given the accompanying sample dataset, I am tasked with performing any analysis that I see fit that will help answer the following question: What activities should be performed (i.e. increased/decreased) in order to increase total Web Transactions without negatively impacting the number of Retail Transactions? 
 
 Answer:
+
+I have estimated the following model:
+
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
 <p>
 <li>
     1. Digital advertising variables, such as Affiliate Spend, Email Spend, Branded Search Spend and Unbranded Search Spend are associated with higher both Web Transactions and Retail Transactions.
