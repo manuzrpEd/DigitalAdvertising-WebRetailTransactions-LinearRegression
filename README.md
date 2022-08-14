@@ -8,7 +8,7 @@ Answer:
 
 I have estimated the following models:
 
-$$ WebTransactions_{i,t} = \beta_0 + \beta_1*OwnedStores_{i,t} + \beta_2*PercentageDiscount_{i,t} + \beta_3*AffiliateSpend_{i,t} + \beta_4*EmailSpend_{i,t} + \beta_5*BrandedSearchSpend_{i,t} + \beta_6*UnbrandedSearchSpend_{i,t} + \beta_7*CompetitiveStores_{i,t} + \gamma_{Year}*Year_{t} + \gamma_{Month}*Month_{t} $$
+$$ WebTransactions_{i,t} = \beta_0 + \beta_1*OwnedStores_{i,t} + \beta_2*PercentageDiscount_{i,t} + \beta_3*AffiliateSpend_{i,t} + \beta_4*EmailSpend_{i,t} + \beta_5*BrandedSearchSpend_{i,t} + \beta_6*UnbrandedSearchSpend_{i,t} + \beta_7*CompetitiveStores_{i,t} + \gamma_{Year}*Year_{t} + \gamma_{Month}*Month_{t} + u_{i,t} $$
 
 <p>
 <li>
