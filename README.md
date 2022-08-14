@@ -16,7 +16,7 @@ $$ RetailTransactions_{i,t} = \beta_0 + \beta_1OwnedStores_{i,t} + \beta_2Percen
 
 $$ + \beta_6UnbrandedSearchSpend_{i,t} + \beta_7CompetitiveStores_{i,t} + \gamma Year_{t} + \delta Month_{t} + \eta_{i} + u_{i,t} $$
 
-The above models specify the linear relationship that WebTransactions and RetailTransactions have on explanatory variables pertaining to Web, Retail Transactions, respectively. Because we have panel data (i.e. data that varies across time and across stores), I have estimated the above models using the Fixed Effect Estimator. Estimates are displayed [here](https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/Web%26RetailTransactions.ipynb). Below are the findings:
+The above models specify the linear relationship that WebTransactions and RetailTransactions have on explanatory variables pertaining to Web, Retail Transactions, respectively. The goal is to find those characteristics that increase Web Transactions and that do not decrease Retail Transactions. Because we have panel data (i.e. data that varies across time and across stores), I have estimated the above models using the Fixed Effect Estimator, demeaning the data. Estimates are displayed [here](https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/Web%26RetailTransactions.ipynb). Below are the findings:
 
 <p>
 <li>
