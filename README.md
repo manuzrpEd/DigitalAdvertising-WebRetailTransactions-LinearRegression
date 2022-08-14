@@ -8,7 +8,7 @@ Answer:
 
 I have estimated the following models:
 
-$$ WebTransactions = \beta_0 $$
+$$ WebTransactions_{i,t} = \beta_0 + \beta_1 * OwnedStores_{i,t} + \beta_2 * Percentage_Discount_{i,t} $$
 
 <p>
 <li>
