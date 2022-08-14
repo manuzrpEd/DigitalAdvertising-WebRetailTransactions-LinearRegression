@@ -6,9 +6,14 @@ Given the accompanying sample dataset, I am tasked with performing any analysis 
 
 Answer:
 
-I have estimated the following models:
+I have estimated the following two models:
 
 $$ WebTransactions_{i,t} = \beta_0 + \beta_1OwnedStores_{i,t} + \beta_2PercentageDiscount_{i,t} + \beta_3AffiliateSpend_{i,t} + \beta_4EmailSpend_{i,t} + \beta_5BrandedSearchSpend_{i,t} $$
+
+$$ + \beta_6UnbrandedSearchSpend_{i,t} + \beta_7CompetitiveStores_{i,t} + \gamma Year_{t} + \delta Month_{t} + u_{i,t} $$
+
+$$ RetailTransactions_{i,t} = \beta_0 + \beta_1OwnedStores_{i,t} + \beta_2PercentageDiscount_{i,t} + \beta_3AffiliateSpend_{i,t} + \beta_4EmailSpend_{i,t} + \beta_5BrandedSearchSpend_{i,t} $$
+
 $$ + \beta_6UnbrandedSearchSpend_{i,t} + \beta_7CompetitiveStores_{i,t} + \gamma Year_{t} + \delta Month_{t} + u_{i,t} $$
 
 <p>
