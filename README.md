@@ -4,17 +4,17 @@ This assessment is designed to help show my coding, reasoning, and communication
 
 Given the accompanying sample dataset, I am tasked with performing any analysis that I see fit that will help answer the following question: What activities should be performed (i.e. increased/decreased) in order to increase total Web Transactions without negatively impacting the number of Retail Transactions? 
 
-Answer
+# Answer
 
 I have considered the following two models:
 
-$$ WebTransactions_{i,t} = \beta_0 + \beta_1OwnedStores_{i,t} + \beta_2PercentageDiscount_{i,t} + \beta_3AffiliateSpend_{i,t} + \beta_4EmailSpend_{i,t} + \beta_5BrandedSearchSpend_{i,t} $$
+$$ WebTransactions_{i,t} = \beta_0 + \beta_1OwnedStores_{i,t} + \beta_2PercentageDiscount_{i,t} + \beta_3AffiliateSpend_{i,t} + \beta_4EmailSpend_{i,t} $$
 
-$$ + \beta_6UnbrandedSearchSpend_{i,t} + \beta_7CompetitiveStores_{i,t} + \gamma Year_{t} + \delta Month_{t} + \eta_{i}+ u_{i,t} $$
+$$ + \beta_5BrandedSearchSpend_{i,t} + \beta_6UnbrandedSearchSpend_{i,t} + \beta_7CompetitiveStores_{i,t} + \gamma Year_{t} + \delta Month_{t} + \eta_{i}+ u_{i,t} $$
 
-$$ RetailTransactions_{i,t} = \beta_0 + \beta_1OwnedStores_{i,t} + \beta_2PercentageDiscount_{i,t} + \beta_3AffiliateSpend_{i,t} + \beta_4EmailSpend_{i,t} + \beta_5BrandedSearchSpend_{i,t} $$
+$$ RetailTransactions_{i,t} = \beta_0 + \beta_1OwnedStores_{i,t} + \beta_2PercentageDiscount_{i,t} + \beta_3AffiliateSpend_{i,t} + \beta_4EmailSpend_{i,t} $$
 
-$$ + \beta_6UnbrandedSearchSpend_{i,t} + \beta_7CompetitiveStores_{i,t} + \gamma Year_{t} + \delta Month_{t} + \eta_{i} + u_{i,t} $$
+$$ + \beta_5BrandedSearchSpend_{i,t} + \beta_6UnbrandedSearchSpend_{i,t} + \beta_7CompetitiveStores_{i,t} + \gamma Year_{t} + \delta Month_{t} + \eta_{i} + u_{i,t} $$
 
 The above models specify the linear relationship that WebTransactions and RetailTransactions have on explanatory variables pertaining to Web, Retail Transactions, respectively. Because we have panel data (i.e. data that varies across time and across stores), I have estimated the above models using the Fixed Effect Estimator. Estimates are displayed [here](https://github.com/manuzrpEd/TotalWebTransactions-RetailTransactions/blob/main/Web%26RetailTransactions.ipynb). Below are the findings:
 
