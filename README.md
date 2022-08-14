@@ -4,7 +4,7 @@ This assessment is designed to help show my coding, reasoning, and communication
 
 Given the accompanying sample dataset, I am tasked with performing any analysis that I see fit that will help answer the following question: What activities should be performed (i.e. increased/decreased) in order to increase total Web Transactions without negatively impacting the number of Retail Transactions? 
 
-# Answer
+## Answer
 
 I have considered the following two models:
 
